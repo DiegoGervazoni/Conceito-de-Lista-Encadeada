@@ -4,3 +4,4 @@ Conceito de lista encadeada aplicada em Java
 - Aplicação do método add;
 - Aplicação do método interno de classe getNo;
 - Aplicação do método get;
+- Aplicação do método remove;
