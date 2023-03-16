@@ -6,3 +6,4 @@ Conceito de lista encadeada aplicada em Java
 - Aplicação do método get;
 - Aplicação do método remove;
 - Aplicação do toString;
+- Aplicação do Main para rodar o código;
