@@ -42,14 +42,14 @@ public class No<T> {
                 '}';
     }
 
-    public String toStringEncadeado(){
+    public String toStringEncadeado() {
         String str = "No{" +
                 "conteudo=" + conteudo +
                 '}';
 
-        if(proximoNo != null){
+        if (proximoNo != null) {
             str += "-->" + proximoNo.toString();
-        }else{
+        } else {
             str += "--> null";
         }
         return str;
